@@ -14,3 +14,7 @@ Mobile
     1. 위 '설치하기' 버튼을 꾹 눌러 '링크 주소 복사' 혹은 아래의 링크를 복사
     2. AdGuard 앱 설정 > 확장 프로그램 > 새 스크립트 추가 > 'URL에서 추가'에 복사한 주소를 붙여넣기
 https://github.com/Techinshit/fukdc_comment/raw/refs/heads/main/FukDCInside.user.js
+
+*   **TamperMonkey 사용자:**
+    1. 위 '설치하기' 버튼을 꾹 눌러 '링크 주소 복사' 혹은 아래의 링크를 복사
+    2. TamperMonkey > 유저 스크립트 추가 > 'URL에서 추가'에 복사한 주소를 붙여넣기
