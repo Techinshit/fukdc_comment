@@ -11,10 +11,10 @@ PC
 
 Mobile
 *   **AdGuard 사용자:**
-    1. 위 '설치하기' 버튼을 꾹 눌러 '링크 주소 복사' 혹은 아래의 링크를 복사
+    1. 위 설치 링크를 꾹 눌러 '링크 주소 복사' 혹은 아래의 링크를 복사
     2. AdGuard 앱 설정 > 필터링 > 확장 > 확장 프로그램 추가 > 'URL에서 추가'에 복사한 주소를 붙여넣기
 https://github.com/Techinshit/fukdc_comment/raw/refs/heads/main/FukDCInside.user.js
 
 *   **TamperMonkey 사용자:**
-    1. 위 '설치하기' 버튼을 꾹 눌러 '링크 주소 복사' 혹은 아래의 링크를 복사
+    1. 위 설치 링크을 꾹 눌러 '링크 주소 복사' 혹은 아래의 링크를 복사
     2. TamperMonkey > 유저 스크립트 추가 > 'URL에서 추가'에 복사한 주소를 붙여넣기
